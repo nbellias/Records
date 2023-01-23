@@ -1,5 +1,7 @@
 # Records
 
+#### This is a .NET core 6 solution created with Visual Studio 2022. The solution contains a main project (console application) and a class library which is referenced by the main project.
+
 ## Records in C# are intended to be used for simple data structures that are mainly used for data storage and manipulation. Some examples of when to use records include:
 
 ### Representing simple data types: Records are a great way to represent simple data types such as points, rectangles, or sizes, that have no behavior and are only used to store data.
